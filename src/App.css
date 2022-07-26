@@ -1,0 +1,29 @@
+
+.field {
+  margin: 10em auto;
+  text-align: center;
+  margin-left: 45%;
+}
+
+#inputOTP {
+  padding-left: 15px;
+  letter-spacing: 31px;
+  border: 0;
+  background-image: linear-gradient(to left, black 70%, rgba(255, 255, 255, 0) 0%);
+  background-position: bottom;
+  background-size: 38px 1px;
+  background-repeat: repeat-x;
+  background-position-x: 35px;
+  width: 220px;
+  outline: none;
+}
+
+#divInner {
+  left: 0;
+  position: sticky;
+}
+
+#divOuter {
+  width: 190px;
+  overflow: hidden;
+}
